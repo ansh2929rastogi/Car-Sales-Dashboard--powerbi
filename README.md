@@ -25,4 +25,4 @@ Data Cleaning & Transformation
 KPI Design, Trend Analysis, User-friendly Layout
 
 📸 Dashboard Preview
-
+![Car Sales Dashboard](https://github.com/ansh2929rastogi/Car-Sales-Dashboard--powerbi/blob/main/Screenshot_17-11-2025_131413_app.powerbi.com.jpeg)
